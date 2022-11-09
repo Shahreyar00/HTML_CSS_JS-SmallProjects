@@ -22,3 +22,9 @@ Parallax-Website
 #### Visit: https://parallax-design-website.netlify.app ####
 ![Screenshot (646)](https://user-images.githubusercontent.com/70688937/196349035-881fa894-aacf-46d0-a0ec-716f10228803.png)
 ****
+````
+Word Scrambler Game
+````
+#### Visit: https://word-scrambler-js.netlify.app ####
+![screencapture-word-scrambler-js-netlify-app-2022-11-08-12_28_56](https://user-images.githubusercontent.com/70688937/200496358-75c06486-c148-4adb-88e0-5145d23faec7.png)
+****
