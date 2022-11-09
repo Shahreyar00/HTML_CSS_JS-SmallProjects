@@ -28,3 +28,9 @@ Word Scrambler Game
 #### Visit: https://word-scrambler-js.netlify.app ####
 ![screencapture-word-scrambler-js-netlify-app-2022-11-08-12_28_56](https://user-images.githubusercontent.com/70688937/200496358-75c06486-c148-4adb-88e0-5145d23faec7.png)
 ****
+````
+Filter Project
+````
+#### Visit: https://filter-smallproject.netlify.app ####
+![screencapture-filter-smallproject-netlify-app-2022-11-09-23_11_47](https://user-images.githubusercontent.com/70688937/200902140-7f7ffbb1-c790-4b71-b327-4a7e02d115e6.png)
+****
