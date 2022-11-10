@@ -28,3 +28,10 @@ Word Scrambler Game
 #### Visit: https://word-scrambler-js.netlify.app ####
 ![screencapture-word-scrambler-js-netlify-app-2022-11-08-12_28_56](https://user-images.githubusercontent.com/70688937/200496358-75c06486-c148-4adb-88e0-5145d23faec7.png)
 ****
+````
+Image-Resize-Compress
+````
+#### Visit: https://image-resize-compress-js.netlify.app ####
+![screencapture-image-resize-compress-js-netlify-app-2022-11-10-17_05_40](https://user-images.githubusercontent.com/70688937/201080825-55ee1e6c-3215-41e0-ae37-b46235657a30.png)
+****
+
