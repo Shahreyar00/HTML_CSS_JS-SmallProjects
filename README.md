@@ -34,3 +34,9 @@ Filter Project
 #### Visit: https://filter-smallproject.netlify.app ####
 ![screencapture-filter-smallproject-netlify-app-2022-11-09-23_11_47](https://user-images.githubusercontent.com/70688937/200902140-7f7ffbb1-c790-4b71-b327-4a7e02d115e6.png)
 ****
+````
+Image Resize Compress
+````
+#### Visit: https://image-resize-compress-js.netlify.app ####
+![screencapture-image-resize-compress-js-netlify-app-2022-11-10-17_05_40](https://user-images.githubusercontent.com/70688937/201082035-a764e09e-f33a-495c-973b-dc2dff674236.png)
+****
